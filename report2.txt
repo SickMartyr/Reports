@@ -1,0 +1,22 @@
+1. Victim organization
+	Internet Archive: Wayback Machine
+
+2. Facts
+	This was a data breach compromising the websites user authentication database. The data extracted from this breach was authentication information for registered members’ emails, usernames, passwords, and Crypt-hashed passwords. Founder of Internet archived confirmed it was a data breach and stated that the threat actor used a JS library to show an alert to visitors. Then a few days later the website underwent an DDoS attack claimed by the BlackMeta hacktivist group.
+
+Message displayed: “"Have you ever felt like the Internet Archive runs on sticks and is constantly on the verge of suffering a catastrophic security breach? It just happened. See 31 million of you on HIBP!," reads a JavaScript alert shown on the compromised archive.org site”
+
+3. Timeline: 	Stolen records: Sept 28,2024
+	DDOs attack: Oct 9, 2024 5:30 ET pm
+	Article posted: Oct 9, 2024 6:22 pm
+
+4. Damages: 31 million user account data was released, no grave damages since the passwords were B-crypted, and it’s basic user info data. 
+
+5. Attribution: Possibly the BlackMeta Hacktivist group
+6. Motive 
+	Unknown, they did it just to do it.
+
+7. Opinion
+Considering government officials have been continually trying to shut down the wayback machine due to copyright laws, this seems as if a group is trying to get the website down even if it means scaring the public/DDoS attacking the website to make it unavailable 
+
+Resource: https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/

@@ -1,0 +1,26 @@
+Report 1: https://www.zdnet.com/article/updated-kaseya-ransomware-attack-faq-what-we-know-now/
+
+https://www.varonis.com/blog/revil-msp-supply-chain-attack
+
+Victim organization:
+	Kaseya along with smaller businesses that used Kaseyas VSA software.
+
+ Facts:
+VSA is software for remote network management that is used by both businesses, MSPs, and IT companies that provide services.
+ 	Through a random chain attack that took advantage of Keseyas VSA software. An attack was triggered via an authentication bypass vulnerability in the Kaseya VSA web interface. Using the MSPS as a back door where a SQL injection was used to execute the exploit, fake update with a backdoor, and Sodinokibi as the payload. The CVE assigned for the vulnerability used is CVE-2021–30116.
+
+Timeline:
+	The group got notice that the vulnerability was exposed, Revil ransomware operators already exploited Kaseya by then. CEO announced at July 2nd @ pm EDT of the potential breach. By July 4th revised the incident with other 2 companies, July 5th a fix was made and deployed to SaaS environments. News article was published in July 23, 2021 at 5 am.
+
+Damages:
+- 30 MSPs were involved in the breach
+“Huntress said in a Reddit explainer that an estimated 1,000 companies have had servers and workstations encrypted. The vendor added that it is reasonable to suggest "thousands of small businesses" may have been impacted.”
+- “"We have not found evidence that any of our SaaS customers were compromised.””
+
+Attribution:
+the REvil ransomware gang
+
+Motive: money??
+
+Opinion: I think they acted real fast after finding out the vulnerability existed and were racing against Kaseya finally releasing a patch for it. Understandably, all of these small businesses that were breached in a way were small businesses with less than 30 employees, so in a matter of effect it wasn’t much.
+

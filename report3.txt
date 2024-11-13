@@ -1,0 +1,24 @@
+. Victim organization
+Verizon, AT&T, Lumen Technologies (Multiple ISP organizations)
+
+2. Facts:  The intrusion happens through an established foothold within the cable and broadband providers insfrastrutcure. Although it is unclear when this breach occurred, specialists believe that the Salt Typhoon group had access to systems over months. Salt Typhoon has had stolen metadata regarding AT&T’s customers back in July of 2022. Throughout the years the CIA and FBI has  identified chinas motives to disrupt critical US infrastructure as opposed to their surveillance only goals with their targeted attacks.
+
+3. Timeline
+Unclear when the intrusion occurred, found out on Sept 25 2024.
+Article posted: Oct 11, 2024 5:30 am ET
+
+4. Motive: Unclear but to collect information that might’ve had access to systems used by the U.S federal government. 
+
+5. Damages: 
+No known immediate damages other than the information gathered incentivizing future Chinese hackers to subvert critical infrastructure
+
+6. Attribution:
+Salt Typhoon 
+
+7. Opinion
+It was merely the government and the idea of them using any information gathered through any ISP provider is low. I believe there isn’t much for civilians to do in this extent to protect themselves, especially with no damages were seen to Cisco routers or ISPs core routers. Though this exposes the many vulnerabilities many companies neglect, along with how continuously hacking groups have gotten access to systems.
+
+
+Resources:
+https://www.wsj.com/politics/national-security/china-cyberattack-internet-providers-260bd835
+https://www.wsj.com/politics/national-security/u-s-officials-race-to-understand-severity-of-chinas-salt-typhoon-hacks-6e7c3951
